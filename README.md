@@ -9,3 +9,5 @@
 ### Git
 
 #### Basic git commands
+
+#### Branch Strategy
